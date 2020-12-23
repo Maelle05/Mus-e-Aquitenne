@@ -42,6 +42,7 @@
 .affiche_contener{
 	display: flex;
 	flex-direction: row;
+	margin-top: 5vh;
 }
 .affiche_partie_image{
 	width: 50%;

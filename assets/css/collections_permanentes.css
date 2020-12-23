@@ -62,7 +62,12 @@ body{
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
+  margin-left: 7vw;
 
+}
+
+.img2{
+  margin-left: 25vh;
 }
 
 .collec_perm_images h3{
@@ -76,7 +81,6 @@ body{
 .collec_perm_une{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 50px;
