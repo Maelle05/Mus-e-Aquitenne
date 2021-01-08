@@ -47,7 +47,6 @@ body{
 }
 
 .collec_perm_image{
-
   width: 600px;
   height: 400px;
   position: relative;
@@ -55,19 +54,7 @@ body{
   z-index: 40;
   background-size: cover;
   background-position: center;
-}
-
-.collec_perm_images{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  margin-left: 7vw;
-
-}
-
-.img2{
-  margin-left: 25vh;
+  margin: 3vw;
 }
 
 .collec_perm_images h3{
@@ -92,6 +79,8 @@ body{
   margin: auto;
   position: relative;
   z-index: 999;
+  display: flex;
+  flex-wrap: wrap;
 }
 .collec_perm_image_contener h3{
 
